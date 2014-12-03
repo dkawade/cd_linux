@@ -10,6 +10,7 @@
         <mkdir dir="classes"/>
         <javac debug="true" debuglevel="lines,vars,source" destdir="classes" includeantruntime="false" includes="**/*" srcdir="sources">
             <classpath refid="class.path"/>
+            xxxxx
         </javac>
     </target>
     <target depends="compile" name="run">
