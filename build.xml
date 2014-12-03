@@ -2,6 +2,7 @@
     <path id="class.path">
         <fileset dir="lib">
             <include name="**/*"/>
+            
         </fileset>
     </path>
     <target name="compile">
