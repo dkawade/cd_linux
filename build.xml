@@ -31,6 +31,7 @@
         <classpath refid="class.path"/>
         <classpath>
           <pathelement path="classes"/>
+          
         </classpath>
         <formatter type="plain" usefile="false"/>
         <test name="site.BootstrapTest"/>
